@@ -1,0 +1,9 @@
+/* Register.css */
+.register-page {
+  background: linear-gradient(135deg, #74ebd5, #9face6);
+  padding: 20px;
+}
+.card {
+  border-radius: 1rem;
+  background-color: #ffffffee;
+}
